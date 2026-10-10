@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 250">
+  <!-- original mascot: "Bubbles the pink bunny" -->
+  <g stroke="#ff7ab8" stroke-width="4" stroke-linejoin="round">
+    <ellipse cx="68" cy="62" rx="22" ry="56" fill="#fff" transform="rotate(-10 68 62)"/>
+    <ellipse cx="132" cy="62" rx="22" ry="56" fill="#fff" transform="rotate(10 132 62)"/>
+  </g>
+  <ellipse cx="68" cy="66" rx="11" ry="40" fill="#ffc2dc" transform="rotate(-10 68 66)"/>
+  <ellipse cx="132" cy="66" rx="11" ry="40" fill="#ffc2dc" transform="rotate(10 132 66)"/>
+  <ellipse cx="100" cy="160" rx="74" ry="66" fill="#fffafc" stroke="#ff7ab8" stroke-width="4"/>
+  <circle cx="74" cy="154" r="7.5" fill="#7a2150"/><circle cx="126" cy="154" r="7.5" fill="#7a2150"/>
+  <circle cx="71.5" cy="151" r="2.6" fill="#fff"/><circle cx="123.5" cy="151" r="2.6" fill="#fff"/>
+  <ellipse cx="52" cy="176" rx="14" ry="9" fill="#ff9cc9" opacity=".7"/>
+  <ellipse cx="148" cy="176" rx="14" ry="9" fill="#ff9cc9" opacity=".7"/>
+  <path d="M100 176 C92 168 86 172 90 178 C92 181 97 183 100 186 C103 183 108 181 110 178 C114 172 108 168 100 176Z" fill="#ff4f9a"/>
+  <path d="M88 192 Q94 200 100 192 Q106 200 112 192" fill="none" stroke="#7a2150" stroke-width="3" stroke-linecap="round"/>
+  <path d="M100 112 C94 104 88 108 92 114 C94 117 98 118 100 120 C102 118 106 117 108 114 C112 108 106 104 100 112Z" fill="#ff7ab8" opacity=".9"/>
+  <circle cx="160" cy="214" r="18" fill="#ffe6f0" stroke="#ff9cc9" stroke-width="3" opacity=".9"/>
+  <ellipse cx="154" cy="208" rx="6" ry="3.5" fill="#fff" transform="rotate(-30 154 208)"/>
+</svg>
